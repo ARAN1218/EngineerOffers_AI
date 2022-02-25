@@ -1,0 +1,2 @@
+# EngineerOffers_AI
+TECH STOCKのサイトからエンジニア求人データをスクレイピングして、月額報酬を予測するAIを作るプログラム(Python)
