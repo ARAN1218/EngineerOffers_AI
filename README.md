@@ -1,2 +1,2 @@
 # EngineerOffers_AI
-TECH STOCKのサイトからエンジニア求人データをスクレイピングして、月額報酬を予測するAIを作るプログラム(Python)
+[TECH STOCK](https://tech-stock.com)のサイトからエンジニア求人データをスクレイピングして、月額報酬を予測するAIを作るプログラム(Python)
